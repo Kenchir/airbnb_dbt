@@ -1,0 +1,6 @@
+.venv/
+.idea/
+.vscode/
+.logs/*
+
+dbt/target
